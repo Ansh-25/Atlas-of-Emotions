@@ -1,0 +1,16 @@
+{
+  "id": "./",
+  "name": "Emotional Atlas",
+  "short_name": "Emotional Atlas",
+  "description": "A richer emotional vocabulary for understanding and reflecting on feelings.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#F5F1E9",
+  "theme_color": "#F5F1E9",
+  "icons": [
+    { "src": "./icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "./icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
